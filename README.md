@@ -24,10 +24,12 @@ Create a New Project:
 
 Open Quartus and create a new project by selecting "File" > "New Project Wizard."
 Follow the wizard's instructions to set up your project, including specifying the project name, location, and target device (FPGA).
+
 Create a New Design File:
 
 Once the project is created, right-click on the project name in the Project Navigator and select "Add New File."
 Choose "Verilog HDL File" or "VHDL File," depending on your chosen hardware description language.
+
 Write the Combinational Logic Code:
 
 Open the newly created Verilog or VHDL file and write the code for your combinational logic.
@@ -35,11 +37,13 @@ Compile the Project:
 
 To compile the project, click on "Processing" > "Start Compilation" in the menu.
 Quartus will analyze your code, synthesize it into a netlist, and perform optimizations based on your target FPGA device.
+
 Analyze and Fix Errors:
 
 If there are any errors or warnings during the compilation process, Quartus will display them in the Messages window.
 Review and fix any issues in your code if necessary.
 View the RTL Diagram.
+
 Verification:
 
 Click on "File" > "New" > "Verification/Debugging Files" > "University Program VWF".
