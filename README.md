@@ -46,11 +46,10 @@ Click on "File" > "New" > "Verification/Debugging Files" > "University Program V
 Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All.
 Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform.
 ## Program:
-/*
-Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
+
 Developed by: JEEVA K
 RegisterNumber:  212223230090
-*/
+
 
 ## Code:
 ![image](https://github.com/JeevaMurthy/Experiment--02-Implementation-of-combinational-logic-/assets/147222117/e537f883-591d-4383-a218-7e2403215263)
